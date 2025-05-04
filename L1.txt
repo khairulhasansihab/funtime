@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/T-Sports-Bangladesh-Logo.png", T-Sports
+http://172.20.21.22/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/somoy_tv.png", Somoy TV
+http://172.20.21.22/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/ekator.jpg", Ekattor TV
+http://172.20.21.22/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Independent.jpg", Independent TV
+http://172.20.21.22/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/news24.jpg", news24
+http://172.20.21.22/live/funtime109/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/SONY_SportsTen2_HD.png", Sony Sports 2 HD
+http://172.20.21.22/live/skyfeed1008/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/jamunatv.png", Jamuna TV
+http://172.20.21.22/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Gazi_TV.png", GTV
+http://172.20.21.22/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/star_jalsa.png", Star Jalsha
+http://172.20.21.22/live/funtime112/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/zee_bangla.jpg", Zee Bangla
+http://172.20.21.22/live/funtime111/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Colors Bangla.jpg", Colors Bangla
+http://172.20.21.22/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Sony_Aath_new.png", Sony AATH
+http://172.20.21.22/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/nick-logo-300x300.jpg", Nick
+http://172.20.21.22/live/funtime110/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Pogo.jpg", Pogo
+http://172.20.21.22/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Al-Jazeera-Logo.jpg", Al Jazeera
+http://172.20.21.22/live/skyfeed1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/somoy_tv.png", Somoy TV (2nd Stream)
+http://172.20.21.22/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/DBC.JPG", DBC News
+http://172.20.21.22/live/funtime108/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/banglavision.png", Bangla Vision
+http://172.20.21.22/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Animal Planet.jpg", Animal Planet
+http://172.20.21.22/live/funtime1025/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/Al-Hajj-TV.jpg", Al-Hajj-TV
+http://172.20.21.22/live/skyfeed1022/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/PTV_Sports.png", PTV Sports
+http://172.20.21.22/live/funtime107/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/starspoerts1.jpg", Star Sports HD 1
+http://172.20.21.22/live/skyfeed1002.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/SS2HD.jpg", Star Sports HD 2
+http://172.20.21.22/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.20.21.22/skynet@8080/ftpdata/live_TV/SONY_SportsTen1_HD.png", Sony Sports 1
+http://172.20.21.22/live/skyfeed1007/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Al_Jazeera_English_logo.svg", Al Jazeera English
+http://stream.aljazeera.com/2012/05/18/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/BBC_World_News_2022_logo.svg", BBC World News
+https://livebbc.fll.cdn.filmtrack.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CNBC_logo.svg", CNBC
+http://www.cnbc.com/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/France_24_logo.svg", France 24
+http://f24hls-i.akamaihd.net/hls/live/2014026/france24.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Deutsche_Welle_logo.svg", Deutsche Welle (DW)
+http://dwstream1.dwhls.com/dwstream1/dw_stream1_de.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/NBC_News_2021_logo.svg", NBC News
+http://nbcnews.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RT_logo_2014.svg", RT (Russia Today)
+https://rt-english-lh.akamaihd.net/i/rt_english_1@126660/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sky_News_logo_2016.svg", Sky News
+https://live.skynews.com/hls/live/2016/10/31/skynews.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/euronews-logo.svg", Euronews
+http://euronews-live1.cdn.euronews.com/mediaplayer/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNN_logo.svg", CNN
+http://cnn.com/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Al-Arabiya_Logo.svg", Al Arabiya
+https://media2.alarabiya.net/alarabiya/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/CGTN_Logo_2021.svg", CGTN (China Global Television Network)
+https://media.cgtn.com/live/hls/english.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/EuroNews_logo.svg", EuroNews
+http://c-a.cdn.eurovision.edgesuite.net/live/euronews/en.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Trt_world_logo.svg", TRT World
+http://trtworld-srtv.akamaized.net/stream/1.0/trt-world.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/ABC_News_logo.svg", ABC News
+http://abcnews.go.com/live?stream=live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ITV_logo.svg", ITV News
+https://www.itv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/NDTV_Logo_2016.png", NDTV 24x7
+https://ndtvweb-lh.akamaihd.net/i/24x7_1@47310/index_1_av-p.m3u8
